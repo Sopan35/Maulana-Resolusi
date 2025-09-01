@@ -3,6 +3,7 @@ RENCANA MERAIH KESUKSESAN
 -Belajar 12 jam sehari
 * Python
 * Framework Flask
+- Latihan wireshark
 -Tidak boleh main keluar
 -Harus Berdoa & Disiplin
 -Ikut Bootcamp atau pelatihan
